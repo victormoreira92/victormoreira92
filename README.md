@@ -3,7 +3,7 @@
 <p>Meu nome é Victor Moreira e estou em transição de carreira da Biologia para a Programação.</p>
 <p>Adoro programar e alinho criatividade e conhecimentos na lógica de progrmação para criar aplicações uteís e capazes de resolver grandes desafios.</p>
 <p>Atualmente estou estudando HTML| CSS| Javascript | React</p>
-<p>Sou viciado em livros, filmes e insetos, e nas horas vagas adoro montar um quebra-cabeça</p> 
+<p>Sou viciado em livros, filmes, insetos e também adoro montar um quebra-cabeça</p> 
 
 <h2>Você pode encontrar mais sobre mim e sobre meus interesses:</h2>
 
