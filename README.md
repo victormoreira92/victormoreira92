@@ -2,7 +2,7 @@
 
 <p>Meu nome é Victor Moreira e estou em transição de carreira da Biologia para a Programação.</p>
 <p>Meu objetivo é criar aplicações e sistemas que sejam capazes de resolverem problemas na área de saúde e de biológicas</p>
-<p>Atualmente estou estudando JAVA e Javascript, além de Estrutura de Dados</p>
+<p>Atualmente estou estudando Ruby (Ruby on Rails) , Java (Spring) e Javascript (Angular)</p>
 <p>Sou viciado em livros, filmes, insetos e também adoro montar um quebra-cabeça</p> 
 
 <h2>Você pode encontrar mais sobre mim e sobre meus interesses:</h2>
