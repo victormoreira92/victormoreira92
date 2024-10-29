@@ -4,7 +4,6 @@
 
 
 ### 🛠️ My Projects:
-* `That Movie, a FullStack social media of movies` [Repo](https://github.com/victormoreira92/thatmovie)
 * `Todoist, a FullStack task manager, using Rails Api in backend and Angular in frontend` [Repo](https://github.com/victormoreira92/todoist)
 * `Course Managment`
 
