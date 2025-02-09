@@ -8,8 +8,7 @@
 * `Course Managment`
 
 ### My Skills
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="48"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="48"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" width="48">
-<img src="https://www.svgrepo.com/show/354252/rails.svg" width="48"> <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48"> <img src="https://rspec.info/images/logo_ogp.png" width="48">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" width="48"><img src="https://www.svgrepo.com/show/354252/rails.svg" width="48"> <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48"> <img src="https://rspec.info/images/logo_ogp.png" width="48">
 
 
 
