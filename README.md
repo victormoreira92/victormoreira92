@@ -1,4 +1,4 @@
-<!--<h1>👋🏿 Hey, I'm Victor </h1>
+<h1>👋🏿 Hey, I'm Victor </h1>
 
 <p>🚀 Looking for a junior developer role, fueled by a passion for learning and adaptability!</p>
 
@@ -15,11 +15,11 @@
 src="https://www.svgrepo.com/show/354252/rails.svg" width="48">      <img 
 src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" width="48">  <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" width="48" height="48">        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7uf5_zUaTjVk1bASjSfXKf2L7Ibk-p-CJuQ&s" width="48">  <img src="https://e7.pngegg.com/pngimages/63/19/png-clipart-mongodb-database-nosql-postgresql-mongo-text-logo-thumbnail.png" width="48">       <img src="https://rspec.info/images/logo_ogp.png" width="48">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Angular_gradient.png/900px-Angular_gradient.png" width="48">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="48">   
 
-## My 
+## My Activity
 
 [![victormoreira92](https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreira92&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
--->
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
+<!--![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
@@ -38,7 +38,7 @@ src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordma
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=ruby)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -72,6 +72,7 @@ src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordma
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN) 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+-->
