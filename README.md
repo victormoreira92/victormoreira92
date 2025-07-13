@@ -6,7 +6,7 @@
 ### 🛠️ My Projects:
 * `Deezer2Youtube, a API Rest for tranfer musics from Deezer to Youtube` [Repo](https://github.com/victormoreira92/deezer2youtube)
 * `XML Flow, a System to read and process XML and CSV files ` [Repo](https://github.com/victormoreira92/xmkflow)
-* `ClinLab, a system to management clinic laboratory` [Repo](https://github.com/victormoreira92/xmkflow)
+* `SmartExaminer, a system to management questions and quiz` [Repo](https://github.com/victormoreira92/SmartExaminer))
 * `ValiData, a System to validate and generate dato for testing` [Repo](https://github.com/victormoreira92/valiData)
  
 
